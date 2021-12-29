@@ -1,4 +1,4 @@
-# plates reccognition practice
+# plates recognition practice
 
 ## Tools and Libraries
 - Python==3.6
